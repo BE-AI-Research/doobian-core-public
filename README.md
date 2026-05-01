@@ -1,5 +1,5 @@
 # doobian-core-public
-The Doobian Core OS repository for the public.
+A modular, granular Linux distribution built on Devuan and Debian. Choose your init, network stack, display server — or pick a blessed template and skip the choices.
 > # Doobian Core
 >
 > Doobian Core is a modular Linux distribution that lets you build your own operating system from a curated set of components. It is built on Devuan and Debian as parallel upstream bases, with the chosen template determining which one your install tracks.
